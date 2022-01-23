@@ -1,1 +1,1 @@
-# project_school
+Cílem je naprogramovat systém, který bude zaznamenávat údaje o studentech, učitelích a předmětech. Každý předmět má jednoho učitele, na předmět se můžou hlásit studenti a můžou si zapsat 1 a více předmětů. Učitel může mít 0 a více předmětů, které vyučuje.
